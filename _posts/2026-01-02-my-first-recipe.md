@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "My First Recipe"
+title: "Chinese Sausage and Leek Stuffing"
 categories: recipes
 ---
 
 ## Ingredients
-- Ingredient 1
-- Ingredient 2
-- Ingredient 3
+- 2 Chinese sausages
+- 2 leeks
+- 1 tablespoon oil
+- Salt to taste
 
 ## Instructions
-1. Step one
-2. Step two
-3. Step three
+1. Slice the Chinese sausages thinly.
+2. Chop the leeks.
+3. Heat oil in a pan, sauté the sausages until fragrant.
+4. Add leeks, cook until tender.
+5. Season with salt and serve.
 
 ## Notes
-Any tips or variations go here.
+Perfect for stuffing buns or dumplings.
